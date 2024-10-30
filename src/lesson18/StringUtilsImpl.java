@@ -19,6 +19,8 @@ public class StringUtilsImpl implements StringUtils {
 
     @Override
     public int[] findWord(String text, String word) throws NullPointerException {
+
+
         return new int[0];
     }
 
