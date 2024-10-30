@@ -5,7 +5,7 @@ public class Main {
         Person person = new Person();
 
         try {
-            person.setAge(10);
+            person.setAge(12);
         } catch (UncurrentAgeException e) {
 
             System.out.println(e.getMessage());
